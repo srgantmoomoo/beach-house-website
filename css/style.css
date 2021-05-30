@@ -49,6 +49,10 @@ body {
     text-align: center;
 }
 
+#link-color {
+    color: black
+}
+
 hr {
     margin-left: 400px;
     margin-right: 400px;
