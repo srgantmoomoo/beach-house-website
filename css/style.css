@@ -1,16 +1,16 @@
 body {
-    background-color: lightblue;
+    background-image:url(https://media.giphy.com/media/hsK59iDP8G5QVMMRl7/giphy.gif);
+    background-size: cover;
+    background-attachment: fixed;
+
+    color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
     line-height: 1.6em;
 }
 
 #header-main {
     text-align: center;
-    background-color: #25B3F4;
-
-    padding: 10px;
-    margin-left: 400px;
-    margin-right: 400px;
+    color: #F730FB;
 }
 
 /* #E961F2 */
@@ -19,7 +19,7 @@ body {
     text-align: center;
 }
 #text-color {
-    color: #E961F2;
+    color: #F730FB;
     padding: 4px;
 }
 
@@ -50,7 +50,7 @@ body {
 }
 
 #link-color {
-    color: black
+    color: white;
 }
 
 hr {
