@@ -46,21 +46,12 @@ body {
     color: #ffffff;
 }
 
-#youtube-color {
-    padding-left: 10px;
-    padding-right: 10px;
-    color: #ff0000;
-}
-
 hr {
+    margin-top: 40px;
     margin-left: 400px;
     margin-right: 400px;
 }
 
 #footer-main {
     text-align: center;
-}
-
-#link-color {
-    color: white;
 }
